@@ -33,3 +33,7 @@ C4_bass
 A frekvenciák jól láthatóan elkülönülnek a spektogramon. Az 1khz-es komponens háromszor, az 500-khzes egyszer megszakad.
 A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan halkul, logaritmikusan cseng le.
 Érdekes módon a C3 hang szólal meg legerősebben, pedig a felvétel C4 hangról készült. Valamint nem 0-nak, hanem -22 dbFS-nek veszi a program. Jelen van még C4 -49, G4 -52, C5 -48, E5 -45 dbFS-el. 
+
+D#4_bass
+4khzig jelennek meg hangok, lineárisan csengenek le, majd a felvétel végén 300hz-nél nagyon enyhe zajjal megszakad.
+100hz-nél jól elkülönülő zaj látható.
