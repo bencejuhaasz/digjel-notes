@@ -1,0 +1,6 @@
+A méréseket az Ableton nevű zenekészítő programmal végeztem, a beépített spektrum plugin és a külső isotope insight 2 pluginnal, ami
+a spektrogramot biztosította. Mindkettő egy-egy csatornához rendelhető a programon belül, a csatornán pedig könnyen, egymás után meg lehet
+szólaltatni a felvett ének és gitárhangokat.
+
+Minden felvételen vizsgáltam a jellegzetes frekvenciák erősségét dbFS-ben, azok változását idő-frenvencia, valamint idő-jelszint függvényben.
+Emellett egy hang jellemzőit az összes felvételt összevetve vizsgáltam.
