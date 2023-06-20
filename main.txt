@@ -19,4 +19,9 @@ A C1 hang van legerősebben jelen, emellett -28 dbFSel C0, -24 dbFS-el G1, -28 d
 -49 dbFSel E3, -48 dbFSel F#3, -48 dbFSel G3, -49 dbFSel A3, -51 dbFSel A#3 -53 dbFSel B3, -53 dbFSel C4, -56 dbFSel D4 szólal meg. 
 G3 magasságában szűrő rezonanciájának jellegzetes képe rajzolódik ki.
 
+C2_bass
+4khzig jelennek meg hangok, lassabban csengenek le exponenciálisan, majd a felvétel végén 3khizg terjedő zajjal megszakadnak.
+A frekvenciák jól láthatóan elkülönülnek a spektogramon.
+
+
 
