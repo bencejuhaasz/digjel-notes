@@ -41,4 +41,4 @@ D#4_bass
 
 H0_bass
 2khzig jelennek meg hangok, exponenciálisan csengenek le, majd a felvétel végén 300hz-ig terjedő zajjal megszakadnak.
-A frekvenciák nem különülnek el jól láthatóan. A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan halkul, logaritmikusan cseng le.
+A frekvenciák nem különülnek el jól láthatóan. A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan halkul, logaritmikusan cseng le. F#1 -26, B0 -27 dbFS-el van jelen. A spektogramon sem különülnek el látványosan frekvenciák, az átmenetek lényegesen enyhébbek. Ismét nem 0 dbFS a legerősebb hang.
