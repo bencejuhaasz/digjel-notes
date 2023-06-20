@@ -21,7 +21,9 @@ G3 magasságában szűrő rezonanciájának jellegzetes képe rajzolódik ki. A 
 
 C2_bass
 4khzig jelennek meg hangok, lassabban csengenek le exponenciálisan, majd a felvétel végén 3khizg terjedő zajjal megszakadnak.
-A frekvenciák jól láthatóan elkülönülnek a spektogramon. A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan halkul, logaritmikusan cseng le.
+A frekvenciák jól láthatóan elkülönülnek a spektogramon. A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan halkul, logaritmikusan cseng le. 
+A C2 hang szólal meg a legerősebben. -30 dbFSel C1, -30.7 dbFSel G2, -40 dbFSel C3, -48 dbFSel E3 szólal meg. A magasabb zaj F#4-nél erősödik, de nem látható jellegezetes szűrő karakterisztika, fokozatosan halkul a zaj, a logaritmikus skálán arányosan a magasságával.
+
 
 
 
