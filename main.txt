@@ -2,5 +2,12 @@ A méréseket az Ableton nevű zenekészítő programmal végeztem, a beépítet
 a spektrogramot biztosította. Mindkettő egy-egy csatornához rendelhető a programon belül, a csatornán pedig könnyen, egymás után meg lehet
 szólaltatni a felvett ének és gitárhangokat.
 
+A következő mintákat gyűjtöttük:
+hang típusa          C1 C2 C3 C4 C5 D6 E2 A1 C#1 C#2 D#1 D#4 H0 H1 G1 F#1 F1 C6 A#1 G#1 E1 D1
+
+Basszusgitár         x  x  x  x                          x   x
+Gitár                      x  x  x  x  x                                     x
+Ének                  x x  x  x           x   x  x    x          x  x  x   x     x   x   x  x
+
 Minden felvételen vizsgáltam a jellegzetes frekvenciák erősségét dbFS-ben, azok változását idő-frenvencia, valamint idő-jelszint függvényben.
 Emellett egy hang jellemzőit az összes felvételt összevetve vizsgáltam.
