@@ -41,4 +41,4 @@ D#4_bass
 
 H0_bass
 2khzig jelennek meg hangok, exponenciálisan csengenek le, majd a felvétel végén 300hz-ig terjedő zajjal megszakadnak.
-A frekvenciák nem különülnek el jól láthatóan. 
+A frekvenciák nem különülnek el jól láthatóan. A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan halkul, logaritmikusan cseng le.
