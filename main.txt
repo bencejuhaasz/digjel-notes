@@ -11,3 +11,12 @@ Gitár                      x  x  x  x  x                                     x
 
 Minden felvételen vizsgáltam a jellegzetes frekvenciák erősségét dbFS-ben, azok változását idő-frenvencia, valamint idő-jelszint függvényben.
 Emellett egy hang jellemzőit az összes felvételt összevetve vizsgáltam.
+
+C1_bass
+3khz-ig terjedően jelennek meg hangok, amik exponenciálisan csengenek le frekvenciatartományban. A felvétel végén 1,5 khzig terjedően gyenge zaj található.
+A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan lecseng. 
+A C1 hang van legerősebben jelen, emellett -28 dbFSel C0, -24 dbFS-el G1, -28 dbFS-el G2, -34 dbFS-el E2, -40 dbFSel G2, -44 dbFSel A#2, -48 dbFSel C3, -50 dbFSel D3,
+-49 dbFSel E3, -48 dbFSel F#3, -48 dbFSel G3, -49 dbFSel A3, -51 dbFSel A#3 -53 dbFSel B3, -53 dbFSel C4, -56 dbFSel D4 szólal meg. 
+G3 magasságában szűrő rezonanciájának jellegzetes képe rajzolódik ki.
+
+
