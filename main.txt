@@ -17,11 +17,11 @@ C1_bass
 A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan lecseng. 
 A C1 hang van legerősebben jelen, emellett -28 dbFSel C0, -24 dbFS-el G1, -28 dbFS-el G2, -34 dbFS-el E2, -40 dbFSel G2, -44 dbFSel A#2, -48 dbFSel C3, -50 dbFSel D3,
 -49 dbFSel E3, -48 dbFSel F#3, -48 dbFSel G3, -49 dbFSel A3, -51 dbFSel A#3 -53 dbFSel B3, -53 dbFSel C4, -56 dbFSel D4 szólal meg. 
-G3 magasságában szűrő rezonanciájának jellegzetes képe rajzolódik ki.
+G3 magasságában szűrő rezonanciájának jellegzetes képe rajzolódik ki. A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan halkul, logaritmikusan cseng le.
 
 C2_bass
 4khzig jelennek meg hangok, lassabban csengenek le exponenciálisan, majd a felvétel végén 3khizg terjedő zajjal megszakadnak.
-A frekvenciák jól láthatóan elkülönülnek a spektogramon.
+A frekvenciák jól láthatóan elkülönülnek a spektogramon. A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan halkul, logaritmikusan cseng le.
 
 
 
