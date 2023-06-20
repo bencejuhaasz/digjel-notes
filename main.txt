@@ -26,5 +26,5 @@ A C2 hang szólal meg a legerősebben. -30 dbFSel C1, -30.7 dbFSel G2, -40 dbFSe
 
 C3_bass
 5khzig jelennek meg hangok, lassabban csengenek le exponenciálisan, majd a felvétel végén 300hz-ig terjedő zajjal megszakadnak.
-A frekvenciák jól láthatóan elkülönülnek a spektogramon.  A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan halkul, logaritmikusan cseng le, ezúttal lassabban. 
+A frekvenciák jól láthatóan elkülönülnek a spektogramon.  A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan halkul, logaritmikusan cseng le, ezúttal lassabban. A C3 hang szólal meg legerősebben, de érdekes módon nem 0-nak, hanem -26 dbFS-nek veszi a program. C2 -27, G3 -30, C4 -44 dbFS-el van jelen. E5-nél erősödik a magas zaj.
 
