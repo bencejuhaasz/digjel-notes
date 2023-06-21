@@ -48,3 +48,6 @@ C3_tele
 jól elkülönülnek. Két másodperccel a vége előtt megszakad a felvétel, majd az előző állapotból folytatóik.  A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan halkul, logaritmikusan cseng le. Látható a szakadás a felvételben itt is.
 A C3 a legerősebb hang, de -30 dbFS-el jelenik meg. Jelen van még C2 -31, G3 -34, C4 -42 dbFS-el. A magasabb hangok zajszerűek.
 
+C4_tele
+15khzig jelennek meg hangok, exponenciálisan elkezdenek lecsengeni, majd végük szakad a felvétel végén. A frekvenciák
+jól elkülönülnek.
