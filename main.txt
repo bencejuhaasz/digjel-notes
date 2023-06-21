@@ -11,6 +11,7 @@ Gitár                      x  x  x  x  x                                     x
 
 Minden felvételen vizsgáltam a jellegzetes frekvenciák erősségét dbFS-ben, azok változását idő-frenvencia, valamint idő-jelszint függvényben.
 Emellett egy hang jellemzőit az összes felvételt összevetve vizsgáltam.
+Minden leírás először a spectogram, aztán az idő-hangerő függvény, majd a spectrum leírása.
 
 C1_bass
 3khz-ig terjedően jelennek meg hangok, amik exponenciálisan csengenek le frekvenciatartományban. A felvétel végén 1,5 khzig terjedően gyenge zaj található.
