@@ -63,3 +63,9 @@ Jelen van -47 dbFSel G5. A zaj G5nál -42 dbFSre erősödik, majd magasabb tarto
 C6_tele
 15khzig jelennek meg hangok, exponenciálisan elkezdenek lecsengeni, majd végük szakad a felvétel végén. Nincs zaj a felvétel végén.
 2khz-nél látványosan hamarabb halkul a felvétel. 150hz körül zaj látható. A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan cseng le. -25 dbFS-el a C5 hang a legerősebb. A C6 meglepően halk, -52 dbFS. Jelen van G6 -35, C7 -46 dbFSel.
+
+D6_tele
+15khzig jelennek meg hangok, exponenciálisan elkezdenek lecsengeni, majd végük szakad a felvétel végén. Nincs zaj a felvétel végén.
+300hz alatt folyamatos halk zaj van. A 4khz fölötti hangok jóval rövidebb ideig szólalnak meg, mint a korábbi felvételeken.
+ A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan cseng le. A korábbiakkal ellentétben a felvétel közben
+konstans erősségű.
