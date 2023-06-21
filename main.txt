@@ -56,3 +56,4 @@ jól elkülönülnek. A hangerő a felvétel elején logaritmikusan emelkedik, m
 C5_tele
 15khzig jelennek meg hangok, exponenciálisan elkezdenek lecsengeni, majd végük szakad a felvétel végén. A frekvenciák
 jól elkülönülnek. 500 hz alatt zaj látható, 800hz-nél szintén. 2khz-nél látványosan hamarabb halkul a felvétel.
+A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan cseng le. Nem látható logaritmikus halkulás a végén. Ennek oka az is lehet, hogy rövidebb a felvétel, kevés a minta a görbe kirajzolódásához.
