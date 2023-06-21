@@ -68,4 +68,4 @@ D6_tele
 15khzig jelennek meg hangok, exponenciálisan elkezdenek lecsengeni, majd végük szakad a felvétel végén. Nincs zaj a felvétel végén.
 300hz alatt folyamatos halk zaj van. A 4khz fölötti hangok jóval rövidebb ideig szólalnak meg, mint a korábbi felvételeken.
  A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan cseng le. A korábbiakkal ellentétben a felvétel közben
-konstans erősségű.
+konstans erősségű. D5 a legerősebb hang -26 dbFS-el. A D6 -45.5 dbFS-el szólal meg. Jelen van még A6 -33 dbFS-el.
