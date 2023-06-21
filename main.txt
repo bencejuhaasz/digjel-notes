@@ -52,3 +52,7 @@ C4_tele
 15khzig jelennek meg hangok, exponenciálisan elkezdenek lecsengeni, majd végük szakad a felvétel végén. A frekvenciák
 jól elkülönülnek. A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan cseng le. Nem látható logaritmikus halkulás a végén. Ennek oka az is lehet, hogy rövidebb a felvétel, kevés a minta a görbe kirajzolódásához.
 -31 dbFSel a C3 és a C4 hangok a leghangosabbak. Megjelenik -40 dbFS-el G4. A zaj A#5-nél -41.5 dbFS-ig emelkedik, majd halkul a magasabb tartományokban.
+
+C5_tele
+15khzig jelennek meg hangok, exponenciálisan elkezdenek lecsengeni, majd végük szakad a felvétel végén. A frekvenciák
+jól elkülönülnek. 500 hz alatt zaj látható, 800hz-nél szintén. 2khz-nél látványosan hamarabb halkul a felvétel.
