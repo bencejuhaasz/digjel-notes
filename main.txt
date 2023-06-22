@@ -77,3 +77,4 @@ A felvételben szakadás látható. A jellegzetes frenvenciák sűrűn helyezked
 01_lá_C4
 12khzig jelennek meg hangok. A jellegzetes frekvenciák alacsonyabb frekvenciákon kezdenek megszólalni, majd logaritmikusan emelkednek,
 és a felvétel végéig egy adott értéken maradnak. A magasabb hangok láthatóan halkabbak, nagyjából arányos a halkulás a hangmagassággal. A gitárokhoz képest több a zaj.  A hangerő a felvétel elején gyorsan exponenciálisan emelkedik, majd exponenciálisan csökken.
+A C4hez közeli B3 a leghangosabb -21 dbFSel. Jelen van még C3 -26, G4 -29, C5 -38, E5 -32, G5 -32,5 dbFSel.
