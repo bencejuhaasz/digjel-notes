@@ -94,3 +94,6 @@ C2 a legerősenn -21 dbFSel. Jelen van C3 -28.5, G3 -30, C4 -45 dbFSel.
 05_lá_C2
 20khzig jelennek meg hangok. A felvétel elején sajátos zaj látható. A mélyebb jellegzetes frekvenciák csökkennek, majd a helyükön maradnak. A magasabb hangok láthatóan halkabbak, arányosan. A hangerő a felvétel elején gyorsan exponenciálisan emelkedik, majd exponenciálisan csökken. 
 Sok a zaj a spektogramon, nehezebben kivehetőek a hangok. C4 a legerősebb -27.5 dbFSel. Jelen van C1 -35, C2 -40, B2 -43, G3 -41 dbFSel.
+
+06_lí_C2
+4khzig jelennek meg hangok, 15khzig zaj látható. 1 és 4khz között összemosódnak a hangok. 100hz és 1khz között röviden hullámoznak egyet a felvétel elején, majd a helyükön maradnak. 
