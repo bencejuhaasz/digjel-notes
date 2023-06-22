@@ -100,3 +100,6 @@ Sok a zaj a spektogramon, nehezebben kivehetőek a hangok. C4 a legerősebb -27.
 
 07_lá_A1
 4khzig jelennek meg hangok, nem különülnek el a spektogramon jól láthatóan. A hangerő a felvétel elején gyorsan exponenciálisan emelkedik, majd exponenciálisan csökken. A spektrumon zaj látszik, C#4-nél legerősebb -39.4 dbFSel.
+
+08_subharmonic_la_A1
+4khzig jelennek meg hangok. Fölötte 12khzig zaj látható. Elkülönülnek jellemző frekvenciák. A felvétel elején enyhén változnak, majd a helyükön maradnak.
