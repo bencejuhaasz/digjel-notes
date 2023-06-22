@@ -73,3 +73,7 @@ konstans erősségű. D5 a legerősebb hang -26 dbFS-el. A D6 -45.5 dbFS-el szó
 E2_tele
 4khzig jelennek meg hangok, exponenciálisan elkezdenek lecsengeni, majd végük szakad a felvétel végén enyhe zajjal.
 A felvételben szakadás látható. A jellegzetes frenvenciák sűrűn helyezkednek el. 600, 800hznél, 1.2, 2, 2,5 és 3khznél hamarabb érnek véget a jellegzetes frekvenciák. A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan halkul, logaritmikusan cseng le. Az E2 a legerősebb hang -29 dbFSel. Jelen van még E1 -32, B2 -31, E3 -36, G#3 -41 dbFSel.
+
+01_lá_C4
+12khzig jelennek meg hangok. A jellegzetes frekvenciák alacsonyabb frekvenciákon kezdenek megszólalni, majd logaritmikusan emelkednek,
+és a felvétel végéig egy adott értéken maradnak. A magasabb hangok láthatóan halkabbak, nagyjából arányos a halkulás a hangmagassággal. A gitárokhoz képest több a zaj. 
