@@ -97,3 +97,6 @@ Sok a zaj a spektogramon, nehezebben kivehetőek a hangok. C4 a legerősebb -27.
 
 06_lí_C2
 4khzig jelennek meg hangok, 15khzig zaj látható. 1 és 4khz között összemosódnak a hangok. 100hz és 1khz között röviden hullámoznak egyet a felvétel elején, majd a helyükön maradnak. A hangerő a felvétel elején gyorsan exponenciálisan emelkedik, majd exponenciálisan csökken. C3 a legerősebb -30 dbFSel. Jelen van C1 -36, C2 -42, G2 -44, E3 -38.5 dbFSel.
+
+07_lá_A1
+4khzig jelennek meg hangok, nem különülnek el a spektogramon jól láthatóan.
