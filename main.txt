@@ -15,65 +15,65 @@ Minden leírás először a spectogram, aztán az idő-hangerő függvény, majd
 
 C1_bass
 3khz-ig terjedően jelennek meg hangok, amik exponenciálisan csengenek le frekvenciatartományban. A felvétel végén 1,5 khzig terjedően gyenge zaj található.
-A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan lecseng. 
+A hangerő a felvétel elején exponenciálisan emelkedik, majd az idővel arányosan lecseng. 
 A C1 hang van legerősebben jelen, emellett -28 dbFSel C0, -24 dbFS-el G1, -28 dbFS-el G2, -34 dbFS-el E2, -40 dbFSel G2, -44 dbFSel A#2, -48 dbFSel C3, -50 dbFSel D3,
 -49 dbFSel E3, -48 dbFSel F#3, -48 dbFSel G3, -49 dbFSel A3, -51 dbFSel A#3 -53 dbFSel B3, -53 dbFSel C4, -56 dbFSel D4 szólal meg. 
 G3 magasságában szűrő rezonanciájának jellegzetes képe rajzolódik ki. A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan halkul, logaritmikusan cseng le.
 
 C2_bass
 4khzig jelennek meg hangok, lassabban csengenek le exponenciálisan, majd a felvétel végén 3khizg terjedő zajjal megszakadnak.
-A frekvenciák jól láthatóan elkülönülnek a spektogramon. A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan halkul, logaritmikusan cseng le. 
+A frekvenciák jól láthatóan elkülönülnek a spektogramon. A hangerő a felvétel elején exponenciálisan emelkedik, majd az idővel arányosan halkul, exponenciálisan cseng le. 
 A C2 hang szólal meg a legerősebben. -30 dbFSel C1, -30.7 dbFSel G2, -40 dbFSel C3, -48 dbFSel E3 szólal meg. A magasabb zaj F#4-nél erősödik, de nem látható jellegezetes szűrő karakterisztika, fokozatosan halkul a zaj, a logaritmikus skálán arányosan a magasságával.
 
 C3_bass
 5khzig jelennek meg hangok, lassabban csengenek le exponenciálisan, majd a felvétel végén 300hz-ig terjedő zajjal megszakadnak.
-A frekvenciák jól láthatóan elkülönülnek a spektogramon.  A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan halkul, logaritmikusan cseng le, ezúttal lassabban. A C3 hang szólal meg legerősebben, de érdekes módon nem 0-nak, hanem -26 dbFS-nek veszi a program. C2 -27, G3 -30, C4 -44 dbFS-el van jelen. E5-nél erősödik a magas zaj.
+A frekvenciák jól láthatóan elkülönülnek a spektogramon.  A hangerő a felvétel elején exponenciálisan emelkedik, majd az idővel arányosan halkul, exponenciálisan cseng le, ezúttal lassabban. A C3 hang szólal meg legerősebben, de érdekes módon nem 0-nak, hanem -26 dbFS-nek veszi a program. C2 -27, G3 -30, C4 -44 dbFS-el van jelen. E5-nél erősödik a magas zaj.
 
 C4_bass
 6khzig jelennek meg hangok, lassabban csengenek le exponenciálisan, majd a felvétel végén 300hz-nél enyhe zajjal megszakad.
 A frekvenciák jól láthatóan elkülönülnek a spektogramon. Az 1khz-es komponens háromszor, az 500-khzes egyszer megszakad.
-A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan halkul, logaritmikusan cseng le.
+A hangerő a felvétel elején exponenciálisan emelkedik, majd az idővel arányosan halkul, exponenciálisan cseng le.
 Érdekes módon a C3 hang szólal meg legerősebben, pedig a felvétel C4 hangról készült. Valamint nem 0-nak, hanem -22 dbFS-nek veszi a program. Jelen van még C4 -49, G4 -52, C5 -48, E5 -45 dbFS-el. 
 
 D#4_bass
 4khzig jelennek meg hangok, lineárisan csengenek le, majd a felvétel végén 300hz-nél nagyon enyhe zajjal megszakad.
-100hz-nél jól elkülönülő zaj látható. A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan halkul, logaritmikusan cseng le.
+100hz-nél jól elkülönülő zaj látható. A hangerő a felvétel elején exponenciálisan emelkedik, majd az idővel arányosan halkul, exponenciálisan cseng le.
 Érdekes módon a D#3 hang szólal meg legerősebben, pedig a felvétel D#4 hangról készült. Valamint nem 0-nak, hanem -18 dbFS-nek veszi a program. Jelen van még D#4 -44.4, A#4 -53, D#5 -43 dbFS-el.
 
 H0_bass
 2khzig jelennek meg hangok, exponenciálisan csengenek le, majd a felvétel végén 300hz-ig terjedő zajjal megszakadnak.
-A frekvenciák nem különülnek el jól láthatóan. A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan halkul, logaritmikusan cseng le. F#1 -26, B0 -27 dbFS-el van jelen. A spektogramon sem különülnek el látványosan frekvenciák, az átmenetek lényegesen enyhébbek. Ismét nem 0 dbFS a legerősebb hang.
+A frekvenciák nem különülnek el jól láthatóan. A hangerő a felvétel elején exponenciálisan emelkedik, majd az idővel arányosan halkul, exponenciálisan cseng le. F#1 -26, B0 -27 dbFS-el van jelen. A spektogramon sem különülnek el látványosan frekvenciák, az átmenetek lényegesen enyhébbek. Ismét nem 0 dbFS a legerősebb hang.
 
 C3_tele
 12khzig jelennek meg hangok, exponenciálisan elkezdenek lecsengeni, majd végük szakad a felvétel végén. A frekvenciák
-jól elkülönülnek. Két másodperccel a vége előtt megszakad a felvétel, majd az előző állapotból folytatóik.  A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan halkul, logaritmikusan cseng le. Látható a szakadás a felvételben itt is.
+jól elkülönülnek. Két másodperccel a vége előtt megszakad a felvétel, majd az előző állapotból folytatóik.  A hangerő a felvétel elején exponenciálisan emelkedik, majd az idővel arányosan halkul, exponenciálisan cseng le. Látható a szakadás a felvételben itt is.
 A C3 a legerősebb hang, de -30 dbFS-el jelenik meg. Jelen van még C2 -31, G3 -34, C4 -42 dbFS-el. A magasabb hangok zajszerűek.
 
 C4_tele
 15khzig jelennek meg hangok, exponenciálisan elkezdenek lecsengeni, majd végük szakad a felvétel végén. A frekvenciák
-jól elkülönülnek. A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan cseng le. Nem látható logaritmikus halkulás a végén. Ennek oka az is lehet, hogy rövidebb a felvétel, kevés a minta a görbe kirajzolódásához.
+jól elkülönülnek. A hangerő a felvétel elején exponenciálisan emelkedik, majd az idővel arányosan cseng le. Nem látható exponenciálisan halkulás a végén. Ennek oka az is lehet, hogy rövidebb a felvétel, kevés a minta a görbe kirajzolódásához.
 -31 dbFSel a C3 és a C4 hangok a leghangosabbak. Megjelenik -40 dbFS-el G4. A zaj A#5-nél -41.5 dbFS-ig emelkedik, majd halkul a magasabb tartományokban.
 
 C5_tele
 15khzig jelennek meg hangok, exponenciálisan elkezdenek lecsengeni, majd végük szakad a felvétel végén. A frekvenciák
 jól elkülönülnek. 500 hz alatt zaj látható, 800hz-nél szintén. 2khz-nél látványosan hamarabb halkul a felvétel.
-A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan cseng le. Nem látható logaritmikus halkulás a végén. Ennek oka az is lehet, hogy rövidebb a felvétel, kevés a minta a görbe kirajzolódásához. -33 dbFSel a C4 és a C5 hangok a leghangosabbak.
+A hangerő a felvétel elején exponenciálisan emelkedik, majd az idővel arányosan cseng le. Nem látható exponenciálisan halkulás a végén. Ennek oka az is lehet, hogy rövidebb a felvétel, kevés a minta a görbe kirajzolódásához. -33 dbFSel a C4 és a C5 hangok a leghangosabbak.
 Jelen van -47 dbFSel G5. A zaj G5nál -42 dbFSre erősödik, majd magasabb tartományokban halkul.
 
 C6_tele
 15khzig jelennek meg hangok, exponenciálisan elkezdenek lecsengeni, majd végük szakad a felvétel végén. Nincs zaj a felvétel végén.
-2khz-nél látványosan hamarabb halkul a felvétel. 150hz körül zaj látható. A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan cseng le. -25 dbFS-el a C5 hang a legerősebb. A C6 meglepően halk, -52 dbFS. Jelen van G6 -35, C7 -46 dbFSel.
+2khz-nél látványosan hamarabb halkul a felvétel. 150hz körül zaj látható. A hangerő a felvétel elején exponenciálisan emelkedik, majd az idővel arányosan cseng le. -25 dbFS-el a C5 hang a legerősebb. A C6 meglepően halk, -52 dbFS. Jelen van G6 -35, C7 -46 dbFSel.
 
 D6_tele
 15khzig jelennek meg hangok, exponenciálisan elkezdenek lecsengeni, majd végük szakad a felvétel végén. Nincs zaj a felvétel végén.
 300hz alatt folyamatos halk zaj van. A 4khz fölötti hangok jóval rövidebb ideig szólalnak meg, mint a korábbi felvételeken.
- A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan cseng le. A korábbiakkal ellentétben a felvétel közben
+ A hangerő a felvétel elején exponenciálisan emelkedik, majd az idővel arányosan cseng le. A korábbiakkal ellentétben a felvétel közben
 konstans erősségű. D5 a legerősebb hang -26 dbFS-el. A D6 -45.5 dbFS-el szólal meg. Jelen van még A6 -33 dbFS-el.
 
 E2_tele
 4khzig jelennek meg hangok, exponenciálisan elkezdenek lecsengeni, majd végük szakad a felvétel végén enyhe zajjal.
-A felvételben szakadás látható. A jellegzetes frenvenciák sűrűn helyezkednek el. 600, 800hznél, 1.2, 2, 2,5 és 3khznél hamarabb érnek véget a jellegzetes frekvenciák. A hangerő a felvétel elején logaritmikusan emelkedik, majd az idővel arányosan halkul, logaritmikusan cseng le. Az E2 a legerősebb hang -29 dbFSel. Jelen van még E1 -32, B2 -31, E3 -36, G#3 -41 dbFSel.
+A felvételben szakadás látható. A jellegzetes frenvenciák sűrűn helyezkednek el. 600, 800hznél, 1.2, 2, 2,5 és 3khznél hamarabb érnek véget a jellegzetes frekvenciák. A hangerő a felvétel elején exponenciálisan emelkedik, majd az idővel arányosan halkul, exponenciálisan cseng le. Az E2 a legerősebb hang -29 dbFSel. Jelen van még E1 -32, B2 -31, E3 -36, G#3 -41 dbFSel.
 
 01_lá_C4
 12khzig jelennek meg hangok. A jellegzetes frekvenciák alacsonyabb frekvenciákon kezdenek megszólalni, majd logaritmikusan emelkednek,
-és a felvétel végéig egy adott értéken maradnak. A magasabb hangok láthatóan halkabbak, nagyjából arányos a halkulás a hangmagassággal. A gitárokhoz képest több a zaj. 
+és a felvétel végéig egy adott értéken maradnak. A magasabb hangok láthatóan halkabbak, nagyjából arányos a halkulás a hangmagassággal. A gitárokhoz képest több a zaj.  A hangerő a felvétel elején gyorsan exponenciálisan emelkedik, majd exponenciálisan csökken.
