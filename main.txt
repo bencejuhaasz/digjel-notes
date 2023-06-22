@@ -81,3 +81,4 @@ A C4hez közeli B3 a leghangosabb -21 dbFSel. Jelen van még C3 -26, G4 -29, C5 
 
 02_lí_C4
 15khzig jelennek meg hangok.  A jellegzetes frekvenciák alacsonyabb frekvenciákon kezdenek megszólalni, majd logaritmikusan emelkednek. Magasságuk hullámozva változik egy adott érték körül a felvétel végéig.  A magasabb hangok láthatóan halkabbak. 
+A gitárokhoz képest több a zaj.  A hangerő a felvétel elején gyorsan exponenciálisan emelkedik, majd exponenciálisan csökken.
