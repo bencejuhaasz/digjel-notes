@@ -88,4 +88,5 @@ C3 a legerősebb 21 dbFSel. Jelen van még C4 -32.5, G4 -50 dbFSel. Sok a spektr
 14khzig jelennek meg hangok. A jellegzetes frekvenciák rögtön a "helyükön" szólalnak meg. Magasságuk hullámozva változik egy adott érték körül a felvétel végéig.  A magasabb hangok láthatóan halkabbak, arányosan. A hangerő a felvétel elején gyorsan exponenciálisan emelkedik, majd exponenciálisan csökken. C2 a legerősebb -25 dbFSel. Jelen van C3 -33.5, G3 -30, C4 -28, E4 -36 dbFSel. 
 
 04_lí_C3
-14khzig jelennek meg hangok. A jellegzetes frekvenciák rögtön a "helyükön" szólalnak meg. Magasságuk hullámozva változik egy adott érték körül a felvétel végéig.  A magasabb hangok láthatóan halkabbak, arányosan. A hangerő a felvétel elején gyorsan exponenciálisan emelkedik, majd exponenciálisan csökken.
+14khzig jelennek meg hangok. A jellegzetes frekvenciák rögtön a "helyükön" szólalnak meg. Magasságuk hullámozva változik egy adott érték körül a felvétel végéig.  A magasabb hangok láthatóan halkabbak, arányosan. A hangerő a felvétel elején gyorsan exponenciálisan emelkedik, majd exponenciálisan csökken. 
+C2 a legerősenn -21 dbFSel. Jelen van C3 -28.5, G3 -30, C4 -45 dbFSel.
