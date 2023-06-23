@@ -114,4 +114,4 @@ A hangerő a felvétel elején gyorsan exponenciálisan emelkedik, majd exponenc
 D#3 a legerősebb -21.6 dbFSel. Jelen van C1 -43, C2 -29, G2 -27, C3 -28 dbFSel.
 
 17_subharmonic_F#1
-8khzig láthatóak hangok, fölötte 20khzig zaj van. 1khz alatt sűrűn egymás mellett szólalnak meg hangok, hullámozva. A magasabb hangok halkabbak.
+8khzig láthatóak hangok, fölötte 20khzig zaj van. 1khz alatt sűrűn egymás mellett szólalnak meg hangok, hullámozva. A magasabb hangok halkabbak. A hangerő a felvétel elején gyorsan exponenciálisan emelkedik, majd exponenciálisan csökken.
