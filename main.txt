@@ -119,3 +119,4 @@ D#3 a legerősebb -30 dbFSel. Jelen van F#1 -35, C2 -36.6, A2 -30.4, C#3 -32, F3
 
 24_growl_C1
 20khzig jelennek meg hangok. A felvétel zajjal indul. A magasabb hangok halkabbak. A spektogramon nem különülnek egy egyértelműen jellegzetes frekvenciák.  A hangerő a felvétel elején gyorsan exponenciálisan emelkedik, majd exponenciálisan csökken. A felvétel közben esés látható, majd egy darabig azon a szinten marad.
+F#3 a legerősebb -34 dbFSel. Jelen van még F1 -37 dbFSel. -42 dbFSes a zaj G5nél, és -50 C7nél.
