@@ -112,3 +112,6 @@ B3 a leghangosabb -22 dbFSel. Jelen van A#0 -43, A1 -34, F2 -37, A2 -31, C#3 -33
 12khzig jelennek meg hangok. A magas, halkabb hangok frekvenciája változik. A 2khz alatti hangok a helyükön maradnak, hullámoznak.
 A hangerő a felvétel elején gyorsan exponenciálisan emelkedik, majd exponenciálisan csökken.
 D#3 a legerősebb -21.6 dbFSel. Jelen van C1 -43, C2 -29, G2 -27, C3 -28 dbFSel.
+
+17_subharmonic_F#1
+8khzig láthatóak hangok, fölötte 20khzig zaj van. 1khz alatt sűrűn egymás mellett szólalnak meg hangok, hullámozva. A magasabb hangok halkabbak.
