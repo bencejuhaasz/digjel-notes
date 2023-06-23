@@ -106,4 +106,4 @@ Sok a zaj a spektogramon, nehezebben kivehetőek a hangok. C4 a legerősebb -27.
 B3 a leghangosabb -22 dbFSel. Jelen van A#0 -43, A1 -34, F2 -37, A2 -31, C#3 -33, E3 -27.5, G3 -22.5 dbFSel.
 
 09_subharmonic_lí_A1
-20khzig jelennek meg hangok. 3.5 és 1.5khz, 700 és 100 hz között erősebbek. Enyhén hullámoznak. A hangerő a felvétel elején gyorsan exponenciálisan emelkedik, majd exponenciálisan csökken.
+20khzig jelennek meg hangok. 3.5 és 1.5khz, 700 és 100 hz között erősebbek. Enyhén hullámoznak. A hangerő a felvétel elején gyorsan exponenciálisan emelkedik, majd exponenciálisan csökken. -25 dbFSel A2 a legerősebb. Jelen van A1 -36, E2 -33.5, C#3 -25.7, E3 -34, F#3 -36 dbFSel.
